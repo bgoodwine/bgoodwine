@@ -13,7 +13,7 @@ bgood.hardware   = [Cadence, Verilog_HDL, ModelSim, FPGA, Arduino, Raspberry_Pi]
 bgood.working on = irishSat.computing_team
 bgood.learning   = "how to only drink one cup of coffee per day"
 
-# TODO: somethings wrong with this func!
+# TODO: figure out what's wrong with this func...
 bgood.code()
 ```
 
