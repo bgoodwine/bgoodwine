@@ -4,17 +4,17 @@
 <p><img align='center' src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="50"> Python, C, C++</p>
 
 ```Python
+bgood            = Programmer("Bridget")
+bgood.pronouns   = (she, her)
+bgood.major      = "electrical engineering"
+bgood.year       = "junior"
+bgood.software   = [Python, C, C++]
+bgood.hardware   = [Cadence, Verilog_HDL, ModelSim, FPGA, Arduino, Raspberry_Pi]
+bgood.working on = irishSat.computing_team
+bgood.learning   = "how to only drink one cup of coffee per day"
 
-bgood = Programmer("Bridget")
-bgood.pronouns = (she, her)
-bgood.major = "electrical engineering"
-bgood.software = [Python, C, C++]
-bgood.hardware = [Cadence, Verilog_HDL, ModelSim, FPGA, Arduino, Raspberry_Pi]
-# working on
-# currently learning
-# fun fact
-# how to reach me 
-
+# TODO: somethings wrong with this func!
+bgood.code()
 ```
 
 
