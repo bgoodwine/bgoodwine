@@ -11,7 +11,7 @@ bgood.working_on = irish_sat.computing_team
 bgood.learning   = "how to create a linux distro (!)"
 
 # TODO: figure out what's wrong with this func...
-bgood.code()
+bgood.code_without_coffee()
 ```
 
 
