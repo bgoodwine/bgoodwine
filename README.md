@@ -7,6 +7,7 @@ bgood.major      = "electrical engineering"
 bgood.year       = "junior"
 bgood.software   = [Python, C, C++]
 bgood.hardware   = [Cadence, Verilog_HDL, ModelSim, FPGA, Arduino, Raspberry_Pi]
+bgood.scifi      = ["Dune", "The Three Body Problem", "Snow Crash", "Neuromancer"]
 bgood.working_on = irish_sat.computing_team
 bgood.learning   = "how to create a linux distro (!)"
 
