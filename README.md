@@ -1,7 +1,4 @@
-<h2> Hi, I'm Bridget :)</h2>
-<p><img align='center' src="https://media.giphy.com/media/tT2FEbKu63KxdFubmY/giphy.gif" width="50"> Electrical engineering at the University of Notre Dame</p>
-<p><img align='center' src="https://media.giphy.com/media/XqSn4oWllPHzL0ldmn/giphy.gif" width="50"> Irish Satellite Club</p>
-<p><img align='center' src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="50"> Python, C, C++</p>
+<h2> Hi, I'm Bridget :)<img align='center' src="https://media.giphy.com/media/tT2FEbKu63KxdFubmY/giphy.gif" width="50"></h2>
 
 ```Python
 bgood            = Programmer("Bridget")
