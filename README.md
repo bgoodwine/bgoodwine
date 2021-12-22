@@ -1,5 +1,5 @@
 <h2> Hi, I'm Bridget :)</h2>
-<p>Electrical engineer at the University of Notre Dame</p>
+<p>Electrical engineering at the University of Notre Dame<img src="https://giphy.com/stickers/arduinocc-arduino-petscii-ailadi-tT2FEbKu63KxdFubmY" width="50"></p>
 
 
 <!--
