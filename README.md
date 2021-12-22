@@ -4,7 +4,7 @@
 bgood            = Programmer("Bridget")
 bgood.pronouns   = (she, her)
 bgood.major      = "electrical engineering"
-bgood.school       = "Notre Dame"
+bgood.school     = "Notre Dame"
 bgood.software   = [Python, C, C++]
 bgood.hardware   = [Cadence, Verilog_HDL, ModelSim, FPGA, Arduino, Raspberry_Pi]
 bgood.scifi      = ["Dune", "The Three Body Problem", "Snow Crash", "Neuromancer"]
