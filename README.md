@@ -1,5 +1,6 @@
 <h2> Hi, I'm Bridget :)</h2>
-<p>Electrical engineering at the University of Notre Dame <img src="https://media.giphy.com/media/tT2FEbKu63KxdFubmY/giphy.gif" width="50"></p>
+<p><img src="https://media.giphy.com/media/tT2FEbKu63KxdFubmY/giphy.gif" width="50"> Electrical engineering at the University of Notre Dame</p>
+<p><img srg="https://media.giphy.com/media/XqSn4oWllPHzL0ldmn/giphy.gif" width="50"> IrishSat Computing Team Co-Lead</p>
 
 
 
