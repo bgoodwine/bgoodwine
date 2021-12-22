@@ -1,6 +1,6 @@
 <h2> Hi, I'm Bridget :)</h2>
-<p><img src="https://media.giphy.com/media/tT2FEbKu63KxdFubmY/giphy.gif" width="50"> Electrical engineering at the University of Notre Dame</p>
-<p><img src="https://media.giphy.com/media/XqSn4oWllPHzL0ldmn/giphy.gif" width="50"> Passionate about satellites</p>
+<p><img align='center' src="https://media.giphy.com/media/tT2FEbKu63KxdFubmY/giphy.gif" width="50"> Electrical engineering at the University of Notre Dame</p>
+<p><img align='center' src="https://media.giphy.com/media/XqSn4oWllPHzL0ldmn/giphy.gif" width="50"> Passionate about satellites</p>
 
 
 
