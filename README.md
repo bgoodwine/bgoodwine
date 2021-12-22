@@ -1,6 +1,6 @@
-### Hi, I'm Bridget :)
+<h2> Hi, I'm Bridget :)</h2>
+<p>Electrical engineer at the University of Notre Dame</p>
 
-- I'm currently working on a Linux distro project
 
 <!--
 **bgoodwine/bgoodwine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
