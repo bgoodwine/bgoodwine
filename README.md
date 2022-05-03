@@ -1,4 +1,4 @@
-<h2> Hi, I'm Bridget <img align='center' src="https://media.giphy.com/media/tT2FEbKu63KxdFubmY/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Bridget ʕ•ᴥ•ʔ <img align='center' src="https://media.giphy.com/media/tT2FEbKu63KxdFubmY/giphy.gif" width="50"></h2>
 
 ```Python
 bgood            = Programmer("Bridget")
