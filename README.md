@@ -8,7 +8,7 @@ bgood.school     = "Notre Dame"
 bgood.software   = [Python, C, C++]
 bgood.hardware   = [Cadence, Verilog_HDL, ModelSim, FPGA, Arduino, Raspberry_Pi]
 bgood.scifi      = ["Dune", "The Three Body Problem", "Snow Crash", "Neuromancer"]
-bgood.working_on = irish_sat.computing_team
+bgood.working_on = irish_sat.helmholtz_cage
 bgood.learning   = "how to create a linux distro (!)"
 
 # TODO: figure out what's wrong with this func...
