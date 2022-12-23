@@ -17,7 +17,7 @@ bgood.code_without_coffee()
 ```
 
 Some things I do :)  
-[HDF5: Chunk Selection for Audio & Video](https://bgoodwine.github.io/HDF5/)
-[NDEats](https://github.com/orgs/NDEats/repositories)
-[IrishSat](https://sites.nd.edu/aiaa-club/notre-dame-irishsat/)
-[Kelpup (a Puppy Linux distro for students)](https://kelpup.github.io/Home/)
+* [HDF5: Chunk Selection for Audio & Video](https://bgoodwine.github.io/HDF5/)
+* [NDEats](https://github.com/orgs/NDEats/repositories)
+* [IrishSat](https://sites.nd.edu/aiaa-club/notre-dame-irishsat/)
+* [Kelpup (a Puppy Linux distro for students)](https://kelpup.github.io/Home/)
